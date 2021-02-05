@@ -4,4 +4,4 @@ build:
   after_script:
   - cd /media/storage/gitlab/
   - sudo rm -rf CMake
-  - git clone http://192.168.109.15/root/CMake.git
+  - git clone http://git.home.lan/root/CMake.git
